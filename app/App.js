@@ -6,7 +6,7 @@ export default function App() {
   return (
     <WebView
       style={styles.container}
-      source={{ uri: 'https://frontend-6j35jlchn-samssouza22s-projects.vercel.app/' }}
+      source={{ uri: 'https://frontend-cvxux7qv9-samssouza22s-projects.vercel.app' }}
     />
   );
 }
