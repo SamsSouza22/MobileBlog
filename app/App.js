@@ -16,7 +16,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 4,
     marginTop: Constants.statusBarHeight,
     backgroundColor: '#f0f0f0', // Cor de fundo do contêiner
     padding: 10, // Espaçamento interno do contêiner
